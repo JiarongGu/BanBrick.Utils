@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BanBrick.Utils.Time
+namespace BanBrick.Utils.Convertors
 {
     /// <summary>
     /// This code is copied and modified from

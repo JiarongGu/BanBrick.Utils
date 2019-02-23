@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BanBrick.Utils</id>
+    <version>1.0.0</version>
+    <authors>jiarong.gu</authors>
+    <owners>jiarong.gu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utils libaray for .net core projects</description>
+    <releaseNotes>
+      1. First Release
+    </releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <projectUrl>https://github.com/JiarongGu/BanBrick.Utils</projectUrl>
+  </metadata>
+</package>

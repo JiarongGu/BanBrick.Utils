@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BanBrick.Utils.Time
+namespace BanBrick.Utils.Convertors
 {
     public static class UnixTimeConverter
     {

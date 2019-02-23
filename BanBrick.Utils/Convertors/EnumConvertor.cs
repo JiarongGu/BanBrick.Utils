@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace BanBrick.Utils.Enum
+namespace BanBrick.Utils.Convertors
 {
     public static class EnumConvertor
     {

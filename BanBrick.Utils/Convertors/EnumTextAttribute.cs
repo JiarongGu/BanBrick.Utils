@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BanBrick.Utils.Enum
+namespace BanBrick.Utils.Convertors
 {
     public class EnumTextAttribute : Attribute
     {
