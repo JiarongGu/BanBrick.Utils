@@ -1,12 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>utils for .net core</Description>
     <RepositoryType>https://github.com/JiarongGu/BanBrick.Utils</RepositoryType>
     <Authors>Jiarong Gu</Authors>
-    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageReleaseNotes>update project to .netstandard</PackageReleaseNotes>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
