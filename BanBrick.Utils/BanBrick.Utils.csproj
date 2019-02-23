@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>7.1</LangVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>utils for .net core</Description>
+    <Description>Utils for .net core</Description>
     <RepositoryType>https://github.com/JiarongGu/BanBrick.Utils</RepositoryType>
     <Authors>Jiarong Gu</Authors>
     <PackageReleaseNotes>update project to .netstandard</PackageReleaseNotes>
